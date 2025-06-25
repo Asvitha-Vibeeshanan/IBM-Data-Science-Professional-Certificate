@@ -6,9 +6,6 @@
 
 > This repository contains all the reading resources provided and I am adding all my projects created during this course.
 
-> [!WARNING]
-> I will not share the **Quiz** answers or test. I am sharing my assignments and projects made during this course in this repository and I am creating this repository for revision.
-
 > [!Note]
 > I'm working on it for final touchup, stay tuned
 
